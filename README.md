@@ -30,3 +30,9 @@ AIを活用しながら開発しています。
 
 ただし、GitHubにpushするコードは、
 自分で内容を説明できるコードだけにします。
+
+## Documents
+
+- [要件定義](docs/requirements/requirements.md)
+- [基本設計](docs/basic-design/basic-design.md)
+- [詳細設計](docs/detailed-design/detailed-design.md)
